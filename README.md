@@ -2,7 +2,7 @@
 # Lab3Web
 ## Praktikum Pemrograman Web - CSS Dasar
 
-**Nama:** Marisa Puspita Sari  
+**Nama:** Marisa Puspita Sari
 **NIM:** 312510011
 **Universitas:** Universitas Pelita Bangsa  
 **Mata Kuliah:** Pemrograman Web
